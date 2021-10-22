@@ -55,7 +55,7 @@ nav .menu{
 }
 .img{
   background: url('background.jpeg')no-repeat;
-  width: 100%;
+  width: 200%;
   height: 100vh;
   background-size: cover;
   background-position: center;
