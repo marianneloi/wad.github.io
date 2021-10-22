@@ -1,4 +1,3 @@
-# wad.github.io
 <!DOCTYPE html>
 <html>
 <title>Shibuya Clothing Shop</title>
